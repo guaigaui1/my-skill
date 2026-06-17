@@ -1,5 +1,7 @@
 # fable-learning · 寓言式讲解
 
+*[English version](./README.en.md)*
+
 一个 Claude Code Skill。用一个寓言间接讲透一个概念/设计理念/知识的内核,临近结尾才让人隐约悟到它是什么,故事之后再补一段点题解释。让读者在故事里亲历这个机制的因果,自己先"啊"一下,再点题。
 
 技能正文见 [`SKILL.md`](./SKILL.md)。
