@@ -4,7 +4,7 @@
 
 A Claude Code Skill. It teaches a concept, design idea, or piece of knowledge **indirectly through a fable** — letting the reader live through the mechanism's cause-and-effect and feel an "aha" *before* it is ever named, then adding a short reveal that maps the story back to the concept.
 
-The skill body lives in [`SKILL.md`](./SKILL.md).
+The skill body lives in [`SKILL.md`](./SKILL.md) (Chinese-default). An English-default variant is at [`en/SKILL.md`](./en/SKILL.md) (skill name `fable-learning-en`).
 
 ## Install
 
