@@ -6,6 +6,19 @@ A Claude Code Skill. It teaches a concept, design idea, or piece of knowledge **
 
 The skill body lives in [`SKILL.md`](./SKILL.md) (Chinese-default). An English-default variant is at [`en/SKILL.md`](./en/SKILL.md) (skill name `fable-learning-en`).
 
+## The two variants
+
+This repo ships two skills with identical instructions that differ only in default language. Install whichever fits:
+
+| | `fable-learning` | `fable-learning-en` |
+|---|---|---|
+| File | [`SKILL.md`](./SKILL.md) | [`en/SKILL.md`](./en/SKILL.md) |
+| Default fable language | Chinese | English |
+| How it writes | Identical: find the kernel → fable body (no jargon) → reveal, separated by `---` | Same |
+| Best for | Chinese-native readers | English output / English readers |
+
+The names differ, so they don't collide and can be installed together. Either way, you can switch language on the fly in one sentence (e.g. tell the Chinese-default skill "do it in English").
+
 ## Install
 
 Drop the directory (with `SKILL.md`) where Claude Code discovers skills:
